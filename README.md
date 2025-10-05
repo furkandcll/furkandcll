@@ -5,6 +5,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=furkandcll&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=furkandcll&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkandcll&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![My Animation](https://raw.githubusercontent.com/furkandcll/Monte-Carlo-Simulations/main/Monte%20Carlo%20Pi.gif)

@@ -7,9 +7,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=furkandcll&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkandcll&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=furkandcll&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ![My Animation](https://raw.githubusercontent.com/furkandcll/Monte-Carlo-Simulations/main/Monte%20Carlo%20Pi.gif)
